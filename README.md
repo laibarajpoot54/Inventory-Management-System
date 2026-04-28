@@ -70,4 +70,6 @@ This system helps businesses manage their inventory, sales, users, and customer 
 - XAMPP / Apache
 
 
-# Inventory-Management-System
+# Inventory-Management-System Repo
+
+https://github.com/laibarajpoot54/Inventory-Management-System
